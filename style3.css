@@ -1,0 +1,222 @@
+section{
+    width:100vw;
+    height:53vh;
+    background-image: url("https://thumbs.dreamstime.com/b/contact-us-customer-support-hotline-people-connect-call-custo-130157516.jpg");
+    background-size: cover;
+    background-position:center;
+    align-items:flex-end;
+    display: flex;
+    justify-content: center;
+    background-position-y: -210px;
+  
+   
+}
+
+a{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+   
+}
+.navbar{
+    width: 100%;
+    height: -50px;
+}
+ul{
+    float:right;
+    margin: 0px;
+    justify-content: center;
+    padding-right: 10px;
+ 
+    margin-left:900px;
+    margin-top: -60px;
+
+}
+.travel{
+    font-size: 24px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+   margin-top: -240px;
+   margin-left: 100px;
+   
+}
+.rest{
+    font-size: 18px;
+    color: #f9004d;
+}
+.logo{
+    margin-left: 200px;
+}
+.ctn{
+    background:#f9004d;
+    border-radius: 25px;
+    padding:8px 15px;
+    margin-left: 500px;
+   
+
+}
+
+li{
+display: inline-block;
+line-height: 0px;
+font-family: Arial, Helvetica, sans-serif;
+    }
+img{
+    clip-path: circle();
+    margin-left: 100px;
+    position:absolute;
+    margin-top: -105px;
+    
+}
+.container{
+    width: 100%;
+}
+.title{
+    
+    margin-left: 600px;
+    font-size: 4.5vmin;
+    color:white;
+    margin-top: 90px;
+ 
+}
+.me1{
+    color: #f9004d;
+}
+body,html{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #101010;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.backimage{
+    margin-left: 970px;
+    margin-top: 550px;
+    
+}
+.tel{
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.mob1{
+    color: #f9004d;
+    padding-left: 300px; 
+    margin-top: -55px;
+   
+}
+
+.what{
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.mob2{
+    color:white;
+    padding-left: 300px; 
+    margin-top: -55px;
+   
+}
+.face{
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.mob3{
+    color:#f9004d;
+    padding-left: 300px; 
+    margin-top: -55px;
+    text-decoration: none;
+   
+}
+.link1{
+    color:#f9004d;   
+}
+
+
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+footer{
+    width:100%;
+    background: black;
+    height: 80px;
+}
+footer p{
+    color:whitesmoke;
+    font-size: 2vmin;
+    padding:20px;
+    text-align: center;
+
+}
+form{
+    margin-left: 500px;
+    
+}
+h3{
+  margin-left: -50px;
+  font-size: 35px;
+}
+.name{
+    width:30%;
+    height: 50px;
+    background-color:whitesmoke;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.mail{
+    width:30%;
+    height: 50px;
+    background-color:whitesmoke;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;   
+}
+.subject{
+    width:30%;
+    height: 50px;
+    background-color:whitesmoke;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.mass
+{
+    width:30%;
+    height: 50px;
+    background-color:whitesmoke;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.sumbit{
+    width:15%;
+    height: 50px;
+    background-color:#f9004d;
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.box1{
+    width:100%;
+    height:500px;
+    background-color:#191919;
+ 
+   
+}
+.col1{
+    width:33.33%;
+
+}
+.col2{
+    width:33.33%;
+    padding-left: 600px; 
+    margin-top: -515px;
+}
